@@ -1,1 +1,1 @@
-# devops1st-repo
+# devopstraining
